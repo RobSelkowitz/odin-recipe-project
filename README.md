@@ -3,6 +3,11 @@ My First Odin Project
 
 This project should be a way to build some basic html and git skills.  I will fill out the README further along with thoughts and reflections.
 
+Project Complete
+
+I used CSS to address the issues I had with formatting widths, as planned.
+Nothing here is special.  This is all for personal learning.
+
 Notes after completing the basic project: 
 
 This is a Simpson's themed recipe set, filled with references to the show. 
