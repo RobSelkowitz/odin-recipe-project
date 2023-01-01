@@ -16,9 +16,16 @@ h1{
     padding: 5px;
     
 }
+h3{
+    text-align: left;
+    width: 600px;
+    margin: auto;
+    padding: 3px;
+}
 ul,ol{
     display: inline-block;
-    width: auto;
+    width: 600px;
+    margin: auto;
     text-align: left;
 }
 li{
@@ -26,4 +33,5 @@ li{
 }
 div{
     text-align: center;
+    
 }
