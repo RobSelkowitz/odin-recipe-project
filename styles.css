@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(255, 217, 15);
+}
 .picture {
     width: 50%px;
     display: block;
