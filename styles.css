@@ -1,5 +1,6 @@
 .picture {
-    width: 500px;
+    width: 50%px;
+    display: block;
     margin: auto;
     border: solid black 5px;
     padding:10px;
@@ -7,5 +8,22 @@
 .text{
     width: 600px;
     margin: auto;
+    padding: 5px;
 
+}
+h1{
+    text-align: center;
+    padding: 5px;
+    
+}
+ul,ol{
+    display: inline-block;
+    width: auto;
+    text-align: left;
+}
+li{
+    padding-top: 2px;
+}
+div{
+    text-align: center;
 }
